@@ -1,0 +1,42 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "quickadd:choice:cd3232b8-793d-4d35-b2b3-69ac017922d7",
+      "icon": "pen-tool",
+      "name": "QuickAdd: New Note",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:b3f7148c-4a27-4980-8369-84e88e87c039",
+      "icon": "flask-conical",
+      "name": "QuickAdd: Add Experiment",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

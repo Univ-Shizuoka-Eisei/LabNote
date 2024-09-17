@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "82da2accda4e64d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3900b28f2293757e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95d12a8e99651af1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note/240916204621.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "530ebfaa74100e79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System/Obsidian/240917153821.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "203e33d061e6fdf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6f970703d9d401c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1b0424be922a094",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "11ec605d865eb847",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "9611f81bd45eb016",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "154691f5512371c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a427e0d952456a56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#B7025",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8011b02dd2c0c771",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "febb1911a90cd3f1",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "8458273169e1615f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "13620fd2bf1f1d84",
+    "type": "split",
+    "children": [
+      {
+        "id": "43faaa266551527f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aab60a18e645922",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "System/Obsidian/240917153821.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7f0564b78fd43ca8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69d6ef596476461c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "System/Obsidian/240917153821.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc62b2e025b32971",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "System/Obsidian/240917153821.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": true,
+      "obsidian42-brat:BRAT": true,
+      "homepage:Open homepage": true,
+      "float-search:Search Obsidian In Modal": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "darlal-switcher-plus:Open in Headings Mode": true,
+      "darlal-switcher-plus:Open Symbols for the active editor": true
+    }
+  },
+  "active": "530ebfaa74100e79",
+  "lastOpenFiles": [
+    "System/Obsidian/240917152141.md",
+    "System/Obsidian/240917153821.md",
+    "System/Obsidian/240917153330.md",
+    "Note/240917131402.md",
+    "Note/240916204621.md",
+    "Note/240917130012.md",
+    "Note/240917124630.md",
+    "Note/240917123654.md",
+    "System/Obsidian/240917143150.md",
+    "Note/240917124734.md",
+    "System/Obsidian/240917152757.md",
+    "System/Obsidian/240917152617.md",
+    "+/240917152551.md",
+    "Note/240917124503.md",
+    "System/Obsidian/240917152017.md",
+    "System/Obsidian/240917142701.md",
+    "System/Obsidian/240917151750.md",
+    "System/Obsidian/240917151554.md",
+    "System/Obsidian/240917151518.md",
+    "System/Obsidian/240917150912.md",
+    "System/Obsidian/240917150743.md",
+    "System/Obsidian/240917150505.md",
+    "System/Obsidian/240917144158.md",
+    "Note/240917150045.md",
+    "+/240917145745.md",
+    "System/Obsidian/240917144744.md",
+    "System/Obsidian/ObsidianImage/作成された Vault.png",
+    "System/Obsidian/ObsidianImage/Window flame.gif",
+    "System/Obsidian/ObsidianImage/Vault 構成（作成直後）.png",
+    "System/Obsidian/ObsidianImage/Valut作成画面.png",
+    "System/Obsidian/ObsidianImage/UpdateTimeOnEdit.png",
+    "System/Obsidian/ObsidianImage/Theme install.gif",
+    "System/Obsidian/ObsidianImage/Templates.png",
+    "System/Obsidian/ObsidianImage/tag-wrangler.png",
+    "System/Obsidian/ObsidianImage/Tab title bar.png",
+    "System/Obsidian/ObsidianImage/Status_bar.png",
+    "System/Obsidian/ObsidianImage",
+    "ObsidianImage",
+    "名称未設定フォルダ",
+    "System/MetadataMenu"
+  ]
+}

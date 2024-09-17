@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "id": "number",
+    "title": "text",
+    "class": "multitext",
+    "created": "datetime",
+    "modified": "datetime",
+    "author": "multitext",
+    "company": "multitext",
+    "catalog_number": "multitext"
+  }
+}

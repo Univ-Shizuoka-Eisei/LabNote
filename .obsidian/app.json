@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "+",
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Image",
+  "trashOption": "local"
+}

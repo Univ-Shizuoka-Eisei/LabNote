@@ -1,0 +1,50 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "System/Obsidian",
+      "tag": "#Obsidian",
+      "pattern": ""
+    },
+    {
+      "folder": "System/Obsidian",
+      "tag": "#Obsidian/plugin",
+      "pattern": ""
+    },
+    {
+      "folder": "Note",
+      "tag": "#Note",
+      "pattern": ""
+    },
+    {
+      "folder": "Calender/Logs",
+      "tag": "#Logs",
+      "pattern": ""
+    },
+    {
+      "folder": "LiteratureNote",
+      "tag": "#Literature",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "System"
+    },
+    {
+      "folder": "System/MetadataMenu"
+    },
+    {
+      "folder": "System/Obsidian"
+    },
+    {
+      "folder": "System/QuickAdd"
+    },
+    {
+      "folder": "System/Templater"
+    }
+  ]
+}
