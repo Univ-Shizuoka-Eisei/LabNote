@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "⚙",
+      "LiPenTool",
+      "LiFileText",
+      "LiNewspaper",
+      "CoImage02"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -21,10 +27,17 @@
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsBackgroundCheckEnabled": false,
-    "iconsInNotesEnabled": true,
+    "iconsInNotesEnabled": false,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "+": "CoNoteEdit",
+  "Calender": "LiCalendarDays",
+  "Image": "CoImage02",
+  "LiteratureNote": "LiNewspaper",
+  "Note": "LiFileText",
+  "Paper": "LiPenTool",
+  "System": "⚙"
 }

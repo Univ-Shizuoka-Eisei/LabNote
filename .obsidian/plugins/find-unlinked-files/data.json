@@ -1,7 +1,10 @@
 {
-  "outputFileName": "orphaned files output",
+  "outputFileName": "+/orphaned files output",
   "disableWorkingLinks": false,
-  "directoriesToIgnore": [],
+  "directoriesToIgnore": [
+    "System/Templater/",
+    "System/QuickAdd/"
+  ],
   "filesToIgnore": [],
   "fileTypesToIgnore": [],
   "linksToIgnore": [],
@@ -10,8 +13,11 @@
   "ignoreFileTypes": true,
   "ignoreDirectories": true,
   "unresolvedLinksIgnoreDirectories": true,
-  "unresolvedLinksOutputFileName": "broken links output",
-  "unresolvedLinksDirectoriesToIgnore": [],
+  "unresolvedLinksOutputFileName": "+/broken links output",
+  "unresolvedLinksDirectoriesToIgnore": [
+    "System/Templater/",
+    "System/QuickAdd/"
+  ],
   "unresolvedLinksFilesToIgnore": [],
   "unresolvedLinksFileTypesToIgnore": [],
   "unresolvedLinksLinksToIgnore": [],

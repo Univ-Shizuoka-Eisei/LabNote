@@ -67,5 +67,22 @@
       ],
       "key": "N"
     }
-  ]
+  ],
+  "obsidian-footnotes:insert-named-footnote": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "obsidian-file-link:add-file-link": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "templater-obsidian:insert-templater": []
 }

@@ -28,5 +28,7 @@
   "obsidian-front-matter-title-plugin",
   "quickadd",
   "metadata-menu",
-  "dataview"
+  "dataview",
+  "update-time-on-edit",
+  "find-unlinked-files"
 ]

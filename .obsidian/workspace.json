@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "530ebfaa74100e79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System/Obsidian/240917153821.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/Obsidian/240917153821.md"
+                "file": "Note/240916204621.md"
               }
             }
           }
@@ -158,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Obsidian/240917153821.md",
+                "file": "Note/240916204621.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System/Obsidian/240917153821.md",
+                "file": "Note/240916204621.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,34 +192,34 @@
       "darlal-switcher-plus:Open Symbols for the active editor": true
     }
   },
-  "active": "530ebfaa74100e79",
+  "active": "95d12a8e99651af1",
   "lastOpenFiles": [
-    "System/Obsidian/240917152141.md",
-    "System/Obsidian/240917153821.md",
-    "System/Obsidian/240917153330.md",
-    "Note/240917131402.md",
+    "System/MetadataMenu/Literature.md",
+    "System/Obsidian/240918103117.md",
     "Note/240916204621.md",
-    "Note/240917130012.md",
-    "Note/240917124630.md",
-    "Note/240917123654.md",
-    "System/Obsidian/240917143150.md",
-    "Note/240917124734.md",
-    "System/Obsidian/240917152757.md",
-    "System/Obsidian/240917152617.md",
-    "+/240917152551.md",
     "Note/240917124503.md",
-    "System/Obsidian/240917152017.md",
-    "System/Obsidian/240917142701.md",
-    "System/Obsidian/240917151750.md",
-    "System/Obsidian/240917151554.md",
-    "System/Obsidian/240917151518.md",
-    "System/Obsidian/240917150912.md",
-    "System/Obsidian/240917150743.md",
-    "System/Obsidian/240917150505.md",
-    "System/Obsidian/240917144158.md",
-    "Note/240917150045.md",
-    "+/240917145745.md",
-    "System/Obsidian/240917144744.md",
+    "System/Obsidian/240918105556.md",
+    "System/Obsidian/240918105308.md",
+    "System/Obsidian/240918105205.md",
+    "System/Obsidian/240918104743.md",
+    "System/Obsidian/240918104838.md",
+    "System/Obsidian/240918104613.md",
+    "System/Obsidian/240918104534.md",
+    "System/Obsidian/240918104448.md",
+    "System/Obsidian/240917152141.md",
+    "System/Obsidian/240918104152.md",
+    "+/240918104111.md",
+    "System/Obsidian/obsidian-footnotes.md",
+    "System/Obsidian/240918101459.md",
+    "System/Obsidian/240918101146.md",
+    "System/Obsidian/240918100458.md",
+    "System/Obsidian/240918095552.md",
+    "System/Obsidian/240918100345.md",
+    "System/Obsidian/240918101009.md",
+    "System/Obsidian/240918100915.md",
+    "+/obsidian-hover-editor.md",
+    "System/Obsidian/240918100648.md",
+    "+/Markdown 記法.md",
     "System/Obsidian/ObsidianImage/作成された Vault.png",
     "System/Obsidian/ObsidianImage/Window flame.gif",
     "System/Obsidian/ObsidianImage/Vault 構成（作成直後）.png",
